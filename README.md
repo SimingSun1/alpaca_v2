@@ -1,3 +1,4 @@
-pip install -r requirements.txt
+参考的paper是
+Meta-Learning Priors for Efficient Online Bayesian Regression
 
 
